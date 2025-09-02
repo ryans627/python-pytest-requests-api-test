@@ -17,6 +17,9 @@ venv/
 # Log files
 *.log
 
+# report folder
+report/
+
 # Environment variables
 .env
 
