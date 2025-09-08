@@ -18,7 +18,10 @@ venv/
 *.log
 
 # report folder
-report/
+report*/
+
+#temps folder
+temps/
 
 # Environment variables
 .env
