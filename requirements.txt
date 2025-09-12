@@ -5,3 +5,4 @@ pytest-order
 pytest-rerunfailures
 pytest-base-url
 allure-pytest
+pyyaml
